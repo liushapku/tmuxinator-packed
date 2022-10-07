@@ -9,6 +9,7 @@ Credit and should go to the following.
 - tmuxinator: https://github.com/tmuxinator/tmuxinator
 - thor: https://github.com/rails/thor
 - xdg: https://rubyworks.github.io/xdg/
+- erubis: https://github.com/kwatch/erubis
 
 LISENCE should follow those repos.
 
